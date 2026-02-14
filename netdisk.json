@@ -1,3 +1,11 @@
 {
-  "version": 1
+  "version": 1,
+  "files": {
+    "example_folder": {
+      "file.txt": {
+        ":file": "file.txt",
+        ":size": 4
+      }
+    }
+  }
 }
