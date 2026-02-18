@@ -7,7 +7,7 @@
         ":file": "file1.txt",
         ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af",
         ":size": 9
-      }
+      },
       "file2.txt": {
         "__comment_filecontent": "someText",
         ":file": "aFile123",
