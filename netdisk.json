@@ -1,1 +1,19 @@
-{"version": 1, "files": {"example_folder": {"a_file.txt": {":file": "a_file.txt", ":md5": "", ":size": 2097152}}, "example_file.txt": {":file": "example_file.txt", ":md5": "", ":size": 1073741824}}}
+{
+  "version": 1,
+  "files": {
+    "a_folder": {
+      "file1.txt": {
+        "__comment_filecontent": "file1.txt",
+        ":file": "file1.txt",
+        ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af",
+        ":size": 9
+      }
+      "file2.txt": {
+        "__comment_filecontent": "someText",
+        ":file": "aFile123",
+        ":hash": "79252c63862212c43dcadddce8f73e5c",
+        ":size": "8"
+      }
+    }
+  }
+}
