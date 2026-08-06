@@ -16,6 +16,14 @@
       ],
       ":hash": "5ad70d2cfb7c7db01ace19f80d1910d34eb13e3680d0f9749d850ebe48106133",
       ":size": 3473788
+    },
+    "Title.png": {
+      ":file": "netdisk-ff4a56ae0f3149c790929cfbcba87c42",
+      ":assets": [
+        "Title.png"
+      ],
+      ":hash": "21d5100d2b89b34f5321606e1f8a3a476515f14c9c9fdcf50c5f16532be03659",
+      ":size": 44639
     }
   }
 }
