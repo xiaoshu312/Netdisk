@@ -16,6 +16,14 @@
       ],
       ":hash": "5ad70d2cfb7c7db01ace19f80d1910d34eb13e3680d0f9749d850ebe48106133",
       ":size": 3473788
+    },
+    "AeroSnap.exe": {
+      ":file": "netdisk-353c52bbfef44b6da2db5ecd3750cd61",
+      ":assets": [
+        "AeroSnap.exe"
+      ],
+      ":hash": "b9f786ce0cf175a1a758414adcb4c2eb4ffa3d409b73295761ec13f6aa89ff38",
+      ":size": 31744
     }
   }
 }
