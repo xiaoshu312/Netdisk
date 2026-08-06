@@ -1,12 +1,4 @@
 {
   "version": 1,
-  "files": {
-    "example_folder": {
-      "a_file.txt": {
-        ":file": "a_file.txt",
-        ":md5": "",
-        ":size": 2097152
-      }
-    }
-  }
+  "files": {}
 }
