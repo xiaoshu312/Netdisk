@@ -24,6 +24,14 @@
       ],
       ":hash": "21d5100d2b89b34f5321606e1f8a3a476515f14c9c9fdcf50c5f16532be03659",
       ":size": 44639
+    },
+    "GitHub-NetDisk-v0.0.1-Windows-x86_64-Setup.exe": {
+      ":file": "netdisk-97606140f8294a609145fdd70881ddd8",
+      ":assets": [
+        "GitHub-NetDisk-v0.0.1-Windows-x86_64-Setup.exe"
+      ],
+      ":hash": "de7ee943966814e1267ce37eae796caa2d95c6ce74133bcf31de2f1465deac00",
+      ":size": 50904742
     }
   }
 }
