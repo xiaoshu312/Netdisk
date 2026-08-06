@@ -10,12 +10,6 @@
       ":file": "c90fe6809619970b2aee956fd4b4014f",
       ":hash": "c90fe6809619970b2aee956fd4b4014f",
       ":size": 438839666
-    },
-    "testfile.txt": {
-      "__comment_filecontent": "file1.txt",
-      ":file": "file1.txt",
-      ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af",
-      ":size": 9
     }
   }
 }
