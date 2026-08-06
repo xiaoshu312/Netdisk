@@ -1,1 +1,12 @@
-{"version": 1, "files": {"example_folder": {"a_file.txt": {":file": "a_file.txt", ":md5": "", ":size": 2097152}}, "example_file.txt": {":file": "example_file.txt", ":md5": "", ":size": 1073741824}}}
+{
+  "version": 1,
+  "files": {
+    "example_folder": {
+      "a_file.txt": {
+        ":file": "a_file.txt",
+        ":md5": "",
+        ":size": 2097152
+      }
+    }
+  }
+}
