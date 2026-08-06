@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "files": {}
+  "files": {
+    "VisualCppRedist_AIO_x86_x64.exe": {
+      ":file": "netdisk-3cbbe583723846ff94fc56344d458a7d",
+      ":assets": [
+        "VisualCppRedist_AIO_x86_x64.exe"
+      ],
+      ":hash": "265a5d47acc9f2998253e0432dcefa94a1ead7180dc5660abb5a64297c483790",
+      ":size": 31515702
+    }
+  }
 }
