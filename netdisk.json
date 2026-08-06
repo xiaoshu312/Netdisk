@@ -1,1 +1,21 @@
-{"version": 1, "files": {"a_folder": {"file1.txt": {"__comment_filecontent": "file1.txt", ":file": "file1.txt", ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af", ":size": 9}, "file2.txt": {"__comment_filecontent": "someText", ":file": "aFile123", ":hash": "79252c63862212c43dcadddce8f73e5c", ":size": 8}}, "record_16.mp4": {":file": "record_16.mp4", ":hash": "362C8A9C41FBA82346F1564F874F9059", ":size": 40013383}, "宋城演出.mp4": {":file": "c90fe6809619970b2aee956fd4b4014f", ":hash": "c90fe6809619970b2aee956fd4b4014f", ":size": 438839666}, "testfile.txt": {"__comment_filecontent": "file1.txt", ":file": "file1.txt", ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af", ":size": 9}}}
+{
+  "version": 1,
+  "files": {
+    "record_16.mp4": {
+      ":file": "record_16.mp4",
+      ":hash": "362C8A9C41FBA82346F1564F874F9059",
+      ":size": 40013383
+    },
+    "宋城演出.mp4": {
+      ":file": "c90fe6809619970b2aee956fd4b4014f",
+      ":hash": "c90fe6809619970b2aee956fd4b4014f",
+      ":size": 438839666
+    },
+    "testfile.txt": {
+      "__comment_filecontent": "file1.txt",
+      ":file": "file1.txt",
+      ":hash": "bd01856bfd2065d0d1ee20c03bd3a9af",
+      ":size": 9
+    }
+  }
+}
